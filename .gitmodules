@@ -1,0 +1,3 @@
+[submodule "acg/lab-work-3"]
+	path = acg/lab-work-3
+	url = https://github.com/mryrtry/alg-comp-graph-3.git
