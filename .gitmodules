@@ -55,3 +55,6 @@
 [submodule "pl-3/lab-work-1"]
 	path = pl-3/lab-work-1
 	url = https://github.com/mryrtry/assignment-1-io-library.git
+[submodule "pl-3/lab-work-2"]
+	path = pl-3/lab-work-2
+	url = https://github.com/mryrtry/assignment-2-dictionary.git
