@@ -25,3 +25,6 @@
 [submodule "vichmat-4/lab-work-5"]
 	path = vichmat-4/lab-work-5
 	url = https://github.com/mryrtry/vichmat-lr-5.git
+[submodule "vichmat-4/lab-work-6"]
+	path = vichmat-4/lab-work-6
+	url = https://github.com/mryrtry/vichmat-lr-6.git
