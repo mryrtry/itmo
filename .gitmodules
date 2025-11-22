@@ -61,3 +61,6 @@
 [submodule "pl-3/lab-work-3"]
 	path = pl-3/lab-work-3
 	url = https://github.com/mryrtry/assignment-3-image-transform.git
+[submodule "pl-3/lab-work-4"]
+	path = pl-3/lab-work-4
+	url = https://github.com/mryrtry/assignment-4-memory-allocator.git
