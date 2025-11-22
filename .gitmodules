@@ -49,3 +49,6 @@
 [submodule "web-3/lab-work-4-back"]
 	path = web-3/lab-work-4-back
 	url = https://github.com/mryrtry/assignment-4-web-back.git
+[submodule "web-3/lab-work-4-front"]
+	path = web-3/lab-work-4-front
+	url = https://github.com/mryrtry/assignment-4-web-front.git
