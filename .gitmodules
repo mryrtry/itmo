@@ -73,3 +73,6 @@
 [submodule "metopt-4/lab-work-6"]
 	path = metopt-4/lab-work-6
 	url = https://github.com/mryrtry/metopt-lr-6.git
+[submodule "os-5/course"]
+	path = os-5/course
+	url = https://github.com/mryrtry/os-course.git
