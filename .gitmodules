@@ -31,3 +31,6 @@
 [submodule "vichmat-4/math-parser"]
 	path = vichmat-4/math-parser
 	url = https://github.com/mryrtry/math-parser.git
+[submodule "is-5/course"]
+	path = is-5/course
+	url = https://github.com/mryrtry/is-course.git
