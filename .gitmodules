@@ -37,3 +37,6 @@
 [submodule "is-5/lab-work"]
 	path = is-5/lab-work
 	url = https://github.com/mryrtry/band-manager.git
+[submodule "web-3/lab-work-1"]
+	path = web-3/lab-work-1
+	url = https://github.com/mryrtry/assignment-1-web.git
