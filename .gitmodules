@@ -10,3 +10,6 @@
 [submodule "acg/lab-work-1"]
 	path = acg/lab-work-1
 	url = https://github.com/mryrtry/alg-comp-graph-1.git
+[submodule "vichmat-4/lab-work-1"]
+	path = vichmat-4/lab-work-1
+	url = https://github.com/mryrtry/vichmat-lr-1.git
