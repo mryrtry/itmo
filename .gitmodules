@@ -76,3 +76,6 @@
 [submodule "os-5/course"]
 	path = os-5/course
 	url = https://github.com/mryrtry/os-course.git
+[submodule "os-5/course-test"]
+	path = os-5/course-test
+	url = https://github.com/mryrtry/os-cource-test.git
