@@ -7,3 +7,6 @@
 [submodule "acg/lab-work-2"]
 	path = acg/lab-work-2
 	url = https://github.com/mryrtry/alg-comp-graph-2.git
+[submodule "acg/lab-work-1"]
+	path = acg/lab-work-1
+	url = https://github.com/mryrtry/alg-comp-graph-1.git
