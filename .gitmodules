@@ -79,3 +79,6 @@
 [submodule "os-5/course-test"]
 	path = os-5/course-test
 	url = https://github.com/mryrtry/os-cource-test.git
+[submodule "ais-5/lab-work-2"]
+	path = ais-5/lab-work-2
+	url = https://github.com/mryrtry/ais-lab-2.git
