@@ -28,3 +28,6 @@
 [submodule "vichmat-4/lab-work-6"]
 	path = vichmat-4/lab-work-6
 	url = https://github.com/mryrtry/vichmat-lr-6.git
+[submodule "vichmat-4/math-parser"]
+	path = vichmat-4/math-parser
+	url = https://github.com/mryrtry/math-parser.git
