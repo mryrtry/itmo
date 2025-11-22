@@ -34,3 +34,6 @@
 [submodule "is-5/course"]
 	path = is-5/course
 	url = https://github.com/mryrtry/is-course.git
+[submodule "is-5/lab-work"]
+	path = is-5/lab-work
+	url = https://github.com/mryrtry/band-manager.git
