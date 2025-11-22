@@ -64,3 +64,6 @@
 [submodule "pl-3/lab-work-4"]
 	path = pl-3/lab-work-4
 	url = https://github.com/mryrtry/assignment-4-memory-allocator.git
+[submodule "metopt-4/lab-work-2"]
+	path = metopt-4/lab-work-2
+	url = https://github.com/mryrtry/assignment-2-metopt.git
