@@ -88,3 +88,6 @@
 [submodule "ais-5/lab-work-3"]
 	path = ais-5/lab-work-3
 	url = https://github.com/mryrtry/ais-lab-3.git
+[submodule "ais-5/lab-work-4"]
+	path = ais-5/lab-work-4
+	url = https://github.com/mryrtry/ais-lab-4.git
